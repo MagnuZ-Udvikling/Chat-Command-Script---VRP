@@ -1,0 +1,7 @@
+Hej, tak fordi du gad download mit script. 
+
+Under "magnuz-chatscript" vil der være instuktioner til hvordan du sætter det op.
+
+Hvis du vil ændre navnet på scriptet skal du bare ændre navnet på "magnuz-chatscript" til dit valgte navn, men husk også at ændre navnet i "__resource"
+
+Fortsæt god dag - MagnuZ#2346
